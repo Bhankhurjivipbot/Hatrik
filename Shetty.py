@@ -103,7 +103,7 @@ async def attack(update: Update, context: CallbackContext):
         f"*⭐ 𝗧𝗮𝗿𝗴𝗲𝘁 » {ip}*\n"
         f"*⭐ 𝗣𝗼𝗿𝘁 » {port}*\n"
         f"*⭐ 𝗧𝗶𝗺𝗲 » {time} seconds*\n"
-        f"*🔥 𝗢𝘄𝗻𝗲𝗿 @LSR_RAJPUT*\n"        
+        f"*🔥 𝗢𝘄𝗻𝗲𝗿 @Shettybhankhur_vip*\n"        
         f"*🔥 SERVER BGMI*"           
     ), parse_mode='Markdown')
 
